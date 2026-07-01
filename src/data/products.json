@@ -1,0 +1,243 @@
+{
+  "ourPicks": [
+    {
+      "id": "op1",
+      "category": "After Body",
+      "name": "After Skin Body Lotion",
+      "desc": "A lightweight body lotion for after-shower care, designed to leave skin soft, fresh, and comfortable.",
+      "price": 28,
+      "salePrice": 24,
+      "sale": true,
+      "img": ""
+    },
+    {
+      "id": "op2",
+      "category": "Shower Reset",
+      "name": "Blue Hour Body Wash",
+      "desc": "A refreshing daily body wash designed to rinse off the day and leave skin feeling clean, light, and fresh.",
+      "price": 22,
+      "salePrice": 18,
+      "sale": true,
+      "img": ""
+    },
+    {
+      "id": "op3",
+      "category": "Active Care",
+      "name": "Active Skin Shield",
+      "desc": "Fresh comfort after hot, active moments.",
+      "price": 20,
+      "sale": false,
+      "img": ""
+    },
+    {
+      "id": "op4",
+      "category": "Scent Layer",
+      "name": "Clean Skin Body Mist",
+      "desc": "A light body mist made to layer over freshly showered skin for a clean, soft scent.",
+      "price": 24,
+      "salePrice": 20,
+      "sale": true,
+      "img": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "shower-reset",
+      "label": "Shower Reset",
+      "desc": "Rinse off the day and start fresh.",
+      "products": [
+        {
+          "id": "sr1",
+          "name": "Blue Hour Body Wash",
+          "desc": "A refreshing daily body wash designed to rinse off the day and leave skin feeling clean, light, and fresh.",
+          "price": 22,
+          "salePrice": 18,
+          "sale": true,
+          "img": ""
+        },
+        {
+          "id": "sr2",
+          "name": "Post-Sweat Shower Gel",
+          "desc": "A lightweight shower gel made for post-activity cleansing, with a fresh finish that does not feel heavy on skin.",
+          "price": 20,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "sr3",
+          "name": "Fresh Rinse Body Cleanser",
+          "desc": "A gentle body cleanser for everyday shower routines, created to leave skin feeling reset and comfortable.",
+          "price": 22,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "sr4",
+          "name": "Cool Down Shower Oil",
+          "desc": "A soft shower oil that cleanses without stripping, ideal for skin that feels dry after frequent showers.",
+          "price": 26,
+          "sale": false,
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "after-body",
+      "label": "After Body",
+      "desc": "Lightweight care for skin after the shower.",
+      "products": [
+        {
+          "id": "ab1",
+          "name": "After Skin Body Lotion",
+          "desc": "A lightweight body lotion for after-shower care, designed to leave skin soft, fresh, and comfortable.",
+          "price": 28,
+          "salePrice": 24,
+          "sale": true,
+          "img": ""
+        },
+        {
+          "id": "ab2",
+          "name": "Body Reset Lotion",
+          "desc": "A daily body lotion that helps skin feel calm and hydrated after active days and showering.",
+          "price": 30,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "ab3",
+          "name": "Fresh Face Oil",
+          "desc": "A lightweight face oil for a clean, fresh glow.",
+          "price": 34,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "ab4",
+          "name": "Wet Glow Body Oil",
+          "desc": "Lightweight glow for damp, just-showered skin.",
+          "price": 36,
+          "sale": false,
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "active-care",
+      "label": "Active Care",
+      "desc": "Fresh care for after active days.",
+      "products": [
+        {
+          "id": "ac1",
+          "name": "Active Skin Shield",
+          "desc": "Fresh comfort after hot, active moments.",
+          "price": 20,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "ac2",
+          "name": "Fresh Body Mist",
+          "desc": "A quick reset for active skin.",
+          "price": 24,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "ac3",
+          "name": "Heat Reset Gel",
+          "desc": "Cool skin, clean finish.",
+          "price": 24,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "ac4",
+          "name": "Foot Reset Spray",
+          "desc": "A fresh foot spray made for post-sneaker comfort after training, walking, or long wear.",
+          "price": 16,
+          "sale": false,
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "scent-layer",
+      "label": "Scent Layer",
+      "desc": "Clean scents for skin, hair, clothes, and everything after.",
+      "products": [
+        {
+          "id": "sl1",
+          "name": "Clean Skin Body Mist",
+          "desc": "A light body mist made to layer over freshly showered skin for a clean, soft scent.",
+          "price": 24,
+          "salePrice": 20,
+          "sale": true,
+          "img": ""
+        },
+        {
+          "id": "sl2",
+          "name": "Blue Locker Mist",
+          "desc": "A fresh hair and body mist designed for a quick spritz after the gym, shower, or changing room.",
+          "price": 24,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "sl3",
+          "name": "After Air Fabric Mist",
+          "desc": "A fabric mist for gym clothes, towels, and bags, created to leave a clean and airy scent.",
+          "price": 22,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "sl4",
+          "name": "9PM Linen Mist",
+          "desc": "A linen mist for sheets and bedding, made for the quiet reset after showering at night.",
+          "price": 24,
+          "sale": false,
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": "gym-kit",
+      "label": "Gym Kit",
+      "desc": "Everything your after-shower routine needs, packed to go.",
+      "products": [
+        {
+          "id": "gk1",
+          "name": "After.9 Starter Kit",
+          "desc": "A starter set of post-shower body essentials, designed to introduce the full AFTER.9 routine.",
+          "price": 48,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "gk2",
+          "name": "Gym Bag Body Set",
+          "desc": "A curated body routine set made to keep in your gym bag for activity, shower, and reset.",
+          "price": 58,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "gk3",
+          "name": "Shower-To-Go Kit",
+          "desc": "A travel-friendly shower kit with compact essentials for gym showers, weekend trips, and active days.",
+          "price": 36,
+          "sale": false,
+          "img": ""
+        },
+        {
+          "id": "gk4",
+          "name": "Blue Tile Travel Pouch",
+          "desc": "A water-resistant pouch designed to carry shower and body products from locker room to bag.",
+          "price": 18,
+          "sale": false,
+          "img": ""
+        }
+      ]
+    }
+  ]
+}
